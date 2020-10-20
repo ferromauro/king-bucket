@@ -1,4 +1,4 @@
-from king_bucket import KingBucket
+from kb import KingBucket
 import time
 kb = KingBucket()
 kb.create_bucket('provamauro')
