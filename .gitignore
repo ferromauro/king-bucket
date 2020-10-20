@@ -138,4 +138,4 @@ dmypy.json
 cython_debug/
 
 # Custom 
-*/kb_settings/settings.py
+#*/kb_settings/settings.py
